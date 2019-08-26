@@ -1,0 +1,112 @@
+
+.cover{
+	height: 88px;
+    width: 140px;
+    border-radius: 5px;
+}
+#nav-campaigns, #nav-home, #myTab{
+	background-color: initial;
+	padding: initial;
+	border: none;
+}
+#myTab, .p-margin-auto{
+	margin: auto;
+}
+#free-trial{
+	margin: auto; 
+	display: none;
+}
+.p-right{
+	margin-right: 10px;
+}
+
+.p-row{
+	display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+#row1{
+	padding-bottom: 25px;
+}
+#row2, #row1 p{
+	margin-top: 15px;
+}
+.p-div-padding{
+    float: left;
+    padding: 5px 0;
+}
+.p-black{
+    color: black;
+}
+
+#head-row2{
+    background: white;border-radius: 5px;padding: 20px;border: 1px solid;border-color: #00000042;border-bottom: none;
+}
+#head-row2 > div:first-child{
+    padding: 10px 60px;
+}
+#head-row2 > div:first-child  > div:nth-child(2), .padding-bottom {
+    padding-bottom: 20px;
+}
+.margin-bottom{
+    margin-bottom: 20px;
+}
+#btn-update1{
+    margin-top: 25px;
+}
+#btn-update1 > i, #btn-update2, #btn-update3 > i{
+    margin-left: 10px;
+}
+.p-card{
+    box-shadow: none;border: 1px solid;
+}
+#card-photo{
+    border-radius: 0px;
+}
+.align-left{
+    text-align: left;
+}
+#row2 > div:nth-child(2){
+    border-radius: 5px;margin-bottom: 25px;padding: 25px;padding-top: 40px;border: 1px solid;border-color: #00000042;
+}
+#header-row2{
+    margin: 0;float: left;margin-bottom: 20px;padding-bottom: 20px;padding: 0;
+}
+#header-row2 > p:first-child{
+    padding: 4px 2px 20px;
+}
+.d-flex > a{
+    margin-left:auto;text-decoration: underline;
+}
+/*-----------------------------*/
+/*.c-project__profile {
+	display: block;
+	position: relative;
+	width: 32px;
+	height: 32px;
+	margin-right: rem(5px);
+	transition: transform 0.3s;
+	text-align: center;
+}
+.c-tooltip:after, .c-tooltip:before {
+    position: absolute;
+    transition: opacity .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.c-tooltip:after {
+    max-height: 5rem;
+    padding: .625rem .9375rem;
+    border-radius: 4px;
+    background-color: #1d2531;
+    color: #fff;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-transform: none;
+    white-space: nowrap;
+    content: attr(aria-label);
+    overflow: hidden;
+    z-index: 200;
+}*/

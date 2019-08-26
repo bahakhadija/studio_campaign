@@ -1,0 +1,62 @@
+#c-dropdown__menu-notification{
+	position: absolute; 
+	transform: translate3d(-326px, -37px, 0px); 
+	top: 0px;
+	left: 0px; 
+	will-change: transform;
+}
+#dropdown-menu-principal{
+	position: absolute;
+	 transform: translate3d(24px, 36px, 0px); 
+	 top: 0px; 
+	 left: 0px;
+	 will-change: transform;
+}
+
+#row-company-info{
+	background: white;
+    border-radius: 5px;
+    margin-top: 25px;margin-bottom: 25px;
+    padding: 25px;
+}
+#div-avatar{
+	 float: left;
+}
+#div-company-info{
+	margin: 0;
+    float: left;
+}
+
+.company-info{
+	margin-bottom: 1.875rem!important;
+}
+
+#div-map{
+	max-height: 400px;
+}
+.iframe-map{
+	border:0;
+	width: 100%;
+	height: 100%;
+}
+.adress-info{
+	margin-bottom: 25px;
+    padding: 25px;
+    border: 1px solid;
+    border-top: none;
+    border-color: #00000042;
+}
+#col-adress-info{
+	margin: 0;
+	float: left;
+
+}
+.p-adress-info{
+	padding: 0px 2px 20px;
+}
+.icone-save{
+	margin-left: 15px;
+}
+.firm-default{
+	padding: 0px 2px 20px;
+}
